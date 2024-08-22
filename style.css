@@ -10,3 +10,10 @@
     justify-content: center;       /* Optional: Centers text horizontally */
     text-align: center;            /* Optional: Centers text */
 }
+
+#title {
+    background-size: auto;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px;
+    background: #0000008c;
+}
