@@ -1,0 +1,12 @@
+#bg-image {
+    background-image: url('../images/Gandalf_animatorguy.PNG');
+    background-size: cover;        /* Ensures the image covers the entire header */
+    background-repeat: no-repeat;  /* Prevents the image from repeating */
+    background-position: center;   /* Centers the image within the header */
+    height: 300px;                 /* Sets the height of the header */
+    color: white;                /* Optional: Sets text color to stand out against the background */
+    display: flex;                 /* Optional: Aligns text vertically */
+    align-items: center;           /* Optional: Centers text vertically */
+    justify-content: center;       /* Optional: Centers text horizontally */
+    text-align: center;            /* Optional: Centers text */
+}
