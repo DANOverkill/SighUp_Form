@@ -19,7 +19,7 @@ body {
 
 /* Header Styling */
 .header {
-    background-color: #ffffff;
+    background-color: #f5f5f5;
     padding: 15px;
     text-align: center;
     color: rgb(255, 255, 255);
@@ -29,7 +29,7 @@ body {
     background-image: 
         linear-gradient(to bottom, 
                         rgba(255, 255, 255, 0) 66%, /* Start the gradient from 66% of the height */
-                        rgba(255, 255, 255, 1) 100%), /* End with full transparency */
+                        rgba(245, 245, 245, 1) 100%), /* End with full transparency */
                     url('../images/Gandalf_animatorguy.PNG'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
@@ -58,8 +58,9 @@ body {
 }
 
 #cannot-pass {
-    color: #e74c3c;
+    color: #a7544b;
     font-weight: bold;
+    text-shadow: 0 10 10px rgba(0, 0, 0, 0.37);
 }
 
 /* Form Styling */
